@@ -134,6 +134,7 @@ fieldset {
   margin: 0;
   height: 85%;
   border: 6px groove var(--color4);
+  background-color: #fefae029;
 }
 
 label {
